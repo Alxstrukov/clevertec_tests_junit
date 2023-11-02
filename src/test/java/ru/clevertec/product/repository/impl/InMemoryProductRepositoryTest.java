@@ -6,7 +6,7 @@ import org.junit.jupiter.params.provider.CsvSource;
 import org.junit.jupiter.params.provider.MethodSource;
 import org.junit.jupiter.params.provider.NullSource;
 import ru.clevertec.product.entity.Product;
-import ru.clevertec.product.util.InMemoryProductRepositoryTestData;
+import ru.clevertec.product.builders.InMemoryProductRepositoryTestData;
 
 import java.math.BigDecimal;
 import java.time.LocalDateTime;

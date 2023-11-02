@@ -1,4 +1,4 @@
-package ru.clevertec.product.util;
+package ru.clevertec.product.builders;
 
 import lombok.Builder;
 import lombok.Data;

@@ -2,7 +2,7 @@ package ru.clevertec.util;
 
 import org.junit.jupiter.api.Test;
 import ru.clevertec.product.entity.Product;
-import ru.clevertec.product.util.ProductTestData;
+import ru.clevertec.product.builders.ProductTestData;
 
 import java.util.UUID;
 

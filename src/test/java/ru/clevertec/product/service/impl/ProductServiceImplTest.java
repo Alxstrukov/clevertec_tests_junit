@@ -14,8 +14,8 @@ import ru.clevertec.product.data.ProductDto;
 import ru.clevertec.product.entity.Product;
 import ru.clevertec.product.mapper.ProductMapper;
 import ru.clevertec.product.repository.ProductRepository;
-import ru.clevertec.product.util.InMemoryProductRepositoryTestData;
-import ru.clevertec.product.util.ProductTestData;
+import ru.clevertec.product.builders.InMemoryProductRepositoryTestData;
+import ru.clevertec.product.builders.ProductTestData;
 
 import java.math.BigDecimal;
 import java.time.LocalDateTime;
